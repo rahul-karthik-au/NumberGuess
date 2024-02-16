@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #f9f6ee;
+    text-align: center;
+}
+
+.welcome{
+    padding-top: 15%;
+    font-size: 3em;
+}
+.rules{
+    padding-top: 2%;
+    font-size: 1em;
+}
+.label{
+    font-size: 2em;
+    padding: 3px;
+}
+.input{
+    padding: 7px;
+    width:5%;
+}
+.btn{
+    background-color: #723d46;
+    color:#ede8d8;
+    font-size: 15px;
+    margin-left: 10px;
+    width: 5%;
+    padding: 15px;
+    border-radius: 16px;
+}
+.result{
+    color:#ef233c;
+}
+.main{
+    padding-top: 2%;
+}
